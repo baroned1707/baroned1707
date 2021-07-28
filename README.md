@@ -1,8 +1,8 @@
 <!--![](https://github.com/imKashyap/imKashyap/blob/master/banner.png)-->
 
-## Hey, I'm Hoang <img src="./hi.gif" width="28px" alt="waving hand" />
+## Hey, I'm BaronED <img src="./hi.gif" width="28px" alt="waving hand" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanminhhoang&label=MyProfileViews&color=blue&style=plastic%22%20alt=%22vanminhhoang" /> </p>
+<p align="left"> <img src="https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.6435-9/144205747_282428349965639_2972086571571768010_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=1PpwWQmwLjEAX9_JpAP&_nc_ht=scontent.fsgn2-3.fna&oh=fac3bbd7f7574503cc362c290ea643f2&oe=6127FA2D" /> </p>
 
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=vanminhhoang&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&hide_border=true&line_height=27">
