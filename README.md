@@ -16,7 +16,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C++ | HTML | CSS | JavaScript 
-- 🌐 &nbsp; React Native | ReactJS | NextJS | NextJS | NodeJS
+- 🌐 &nbsp; React Native | ReactJS | NextJS | NestJS | NodeJS 
 - 🛢 &nbsp; MongoDB | Firebase | MySQL 
 - 🔧 &nbsp;  Visual Studio code | Git
 - 🖥 &nbsp; Figma
